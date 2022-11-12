@@ -1,0 +1,261 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<jasperReport xmlns="http://jasperreports.sourceforge.net/jasperreports" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://jasperreports.sourceforge.net/jasperreports http://jasperreports.sourceforge.net/xsd/jasperreport.xsd" name="receipt_sale" language="groovy" pageWidth="360" pageHeight="642" columnWidth="320" leftMargin="20" rightMargin="20" topMargin="20" bottomMargin="20" uuid="5745250d-912e-48e3-a5c4-fcd7f0394bb7">
+	<property name="ireport.zoom" value="1.5"/>
+	<property name="ireport.x" value="0"/>
+	<property name="ireport.y" value="0"/>
+	<parameter name="user" class="java.lang.String"/>
+	<parameter name="name" class="java.lang.String"/>
+	<parameter name="pname" class="java.lang.String"/>
+	<parameter name="date_prt" class="java.lang.String"/>
+	<parameter name="sector" class="java.lang.String"/>
+	<parameter name="id" class="java.lang.String"/>
+	<parameter name="residencia" class="java.lang.String"/>
+	<parameter name="telefone" class="java.lang.String"/>
+	<parameter name="sector2" class="java.lang.String"/>
+	<parameter name="pgarticle" class="java.lang.String"/>
+	<parameter name="usertitle" class="java.lang.String"/>
+	<parameter name="pgtitle" class="java.lang.String"/>
+	<parameter name="varDate" class="java.lang.String"/>
+	<parameter name="varClientNameSurname" class="java.lang.String"/>
+	<parameter name="varResidency" class="java.lang.String"/>
+	<parameter name="ReportName" class="java.lang.String"/>
+	<parameter name="varReportFrom" class="java.lang.String"/>
+	<parameter name="varTotal" class="java.lang.String"/>
+	<parameter name="varBalance" class="java.lang.String"/>
+	<parameter name="varClientName" class="java.lang.String"/>
+	<parameter name="varPurpose" class="java.lang.String"/>
+	<parameter name="varRemoval" class="java.lang.String"/>
+	<parameter name="varTelephone" class="java.lang.String"/>
+	<parameter name="varDeposit" class="java.lang.String"/>
+	<queryString>
+		<![CDATA[select depositslist.id as id,depositslist.payment as payment,depositslist.withdrawals as withdrawals,depositslist.withdrawals_purpose as withdrawals_purpose, (depositslist.payment - depositslist.withdrawals) as saldo,depositslist.user_datetime as user_datetime,CAST(depositslist.user_datetime AS TIME) as user_datetimeh,'a' as client_nr from depositslist left join deposits on depositslist.deposit_id = deposits.id where depositslist.deposit_id = $P{id}]]>
+	</queryString>
+	<field name="id" class="java.lang.Integer">
+		<fieldDescription><![CDATA[]]></fieldDescription>
+	</field>
+	<field name="payment" class="java.math.BigDecimal">
+		<fieldDescription><![CDATA[]]></fieldDescription>
+	</field>
+	<field name="withdrawals" class="java.math.BigDecimal">
+		<fieldDescription><![CDATA[]]></fieldDescription>
+	</field>
+	<field name="withdrawals_purpose" class="java.lang.String">
+		<fieldDescription><![CDATA[]]></fieldDescription>
+	</field>
+	<field name="saldo" class="java.math.BigDecimal">
+		<fieldDescription><![CDATA[]]></fieldDescription>
+	</field>
+	<field name="user_datetime" class="java.sql.Timestamp">
+		<fieldDescription><![CDATA[]]></fieldDescription>
+	</field>
+	<field name="user_datetimeh" class="java.sql.Time"/>
+	<field name="client_nr" class="java.lang.String">
+		<fieldDescription><![CDATA[]]></fieldDescription>
+	</field>
+	<variable name="user_datetime_1" class="java.lang.Integer" resetType="Page" calculation="DistinctCount">
+		<variableExpression><![CDATA[$F{user_datetime}]]></variableExpression>
+	</variable>
+	<variable name="Total_Depositos" class="java.math.BigDecimal" calculation="Sum">
+		<variableExpression><![CDATA[$F{payment}]]></variableExpression>
+	</variable>
+	<variable name="Total_Retiradas" class="java.math.BigDecimal" calculation="Sum">
+		<variableExpression><![CDATA[$F{withdrawals}]]></variableExpression>
+	</variable>
+	<variable name="Total_Saldos" class="java.math.BigDecimal" calculation="Sum">
+		<variableExpression><![CDATA[$F{saldo}]]></variableExpression>
+	</variable>
+	<background>
+		<band splitType="Stretch"/>
+	</background>
+	<title>
+		<band height="43" splitType="Stretch">
+			<textField>
+				<reportElement x="0" y="0" width="320" height="14" uuid="fb24d170-0628-4e2f-bab9-6e2a70ac206f"/>
+				<textElement textAlignment="Center"/>
+				<textFieldExpression><![CDATA[$P{pname}]]></textFieldExpression>
+			</textField>
+			<textField>
+				<reportElement x="0" y="14" width="320" height="14" uuid="5218d1b8-f0b3-4646-8362-4d412e7204da"/>
+				<textElement textAlignment="Center"/>
+				<textFieldExpression><![CDATA[$P{sector2}]]></textFieldExpression>
+			</textField>
+			<textField>
+				<reportElement x="0" y="29" width="320" height="14" uuid="cc789505-88af-453a-a8d6-93e73066ad59"/>
+				<textElement textAlignment="Center"/>
+				<textFieldExpression><![CDATA[$P{ReportName}]]></textFieldExpression>
+			</textField>
+		</band>
+	</title>
+	<pageHeader>
+		<band height="43" splitType="Stretch">
+			<textField>
+				<reportElement x="54" y="0" width="121" height="14" uuid="af6d8bfe-fa27-4ae8-a41d-0335355f616c"/>
+				<textElement>
+					<font isBold="true"/>
+				</textElement>
+				<textFieldExpression><![CDATA[$P{name}]]></textFieldExpression>
+			</textField>
+			<textField>
+				<reportElement x="54" y="14" width="101" height="14" uuid="ec5c7c23-b0cf-43c0-ab87-1340fd790ebd"/>
+				<textElement>
+					<font isBold="true"/>
+				</textElement>
+				<textFieldExpression><![CDATA[$P{residencia}]]></textFieldExpression>
+			</textField>
+			<textField>
+				<reportElement x="54" y="29" width="101" height="14" uuid="46abf938-81b5-47a3-9f81-da76b9a4bc70"/>
+				<textElement>
+					<font isBold="true"/>
+				</textElement>
+				<textFieldExpression><![CDATA[$P{telefone}]]></textFieldExpression>
+			</textField>
+			<textField>
+				<reportElement x="0" y="14" width="54" height="14" uuid="29e8ef6a-814e-4f3e-be8a-9815f55aaa31"/>
+				<textFieldExpression><![CDATA[$P{varResidency}]]></textFieldExpression>
+			</textField>
+			<textField>
+				<reportElement x="0" y="28" width="54" height="14" uuid="c1dd1f16-4248-4aae-8b12-21e3901fe0ad"/>
+				<textFieldExpression><![CDATA[$P{varTelephone}]]></textFieldExpression>
+			</textField>
+			<textField>
+				<reportElement x="0" y="0" width="54" height="14" uuid="e6cf4301-9903-4145-a45c-cfaeca563379"/>
+				<textFieldExpression><![CDATA[$P{varClientName}]]></textFieldExpression>
+			</textField>
+		</band>
+	</pageHeader>
+	<columnHeader>
+		<band height="15" splitType="Stretch">
+			<staticText>
+				<reportElement x="0" y="0" width="40" height="14" uuid="8670f1c0-c274-4540-8611-2c4afddda895"/>
+				<text><![CDATA[Id]]></text>
+			</staticText>
+			<line>
+				<reportElement x="0" y="1" width="320" height="1" uuid="b0862423-632d-4988-b96e-d988b8dd89b5"/>
+			</line>
+			<line>
+				<reportElement x="0" y="14" width="320" height="1" uuid="944bae06-1bd5-422d-8d27-ce4d64e1420f"/>
+			</line>
+			<textField>
+				<reportElement x="249" y="0" width="71" height="14" uuid="bd03b8ad-c800-49dd-8dee-f7a044feb901"/>
+				<textFieldExpression><![CDATA[$P{varDate}]]></textFieldExpression>
+			</textField>
+			<textField>
+				<reportElement x="137" y="0" width="52" height="14" uuid="7e7de3ae-ab29-45cc-96e5-b77c628d92a0"/>
+				<textFieldExpression><![CDATA[$P{varBalance}]]></textFieldExpression>
+			</textField>
+			<textField>
+				<reportElement x="41" y="0" width="44" height="14" uuid="075464ff-a334-437a-a97e-aab91372bf65"/>
+				<textFieldExpression><![CDATA[$P{varDeposit}]]></textFieldExpression>
+			</textField>
+			<textField>
+				<reportElement x="189" y="0" width="60" height="14" uuid="5247cde0-14f6-428d-91a7-a2a68e2bafc5"/>
+				<textFieldExpression><![CDATA[$P{varPurpose}]]></textFieldExpression>
+			</textField>
+			<textField>
+				<reportElement x="85" y="0" width="52" height="14" uuid="b21ca543-102d-4050-bdd8-d71a9dfdab9c"/>
+				<textFieldExpression><![CDATA[$P{varRemoval}]]></textFieldExpression>
+			</textField>
+		</band>
+	</columnHeader>
+	<detail>
+		<band height="17" splitType="Stretch">
+			<textField>
+				<reportElement isPrintRepeatedValues="false" x="0" y="0" width="40" height="14" uuid="03d1453d-f664-4e32-8ba0-51ea92874bc0"/>
+				<textElement>
+					<font size="8"/>
+				</textElement>
+				<textFieldExpression><![CDATA[$F{id}]]></textFieldExpression>
+			</textField>
+			<textField isBlankWhenNull="true">
+				<reportElement x="40" y="0" width="45" height="14" uuid="82ccf9e6-c545-498a-93db-285640caeec2"/>
+				<textElement>
+					<font size="8"/>
+				</textElement>
+				<textFieldExpression><![CDATA[$F{payment}]]></textFieldExpression>
+			</textField>
+			<textField isBlankWhenNull="true">
+				<reportElement x="85" y="0" width="52" height="14" uuid="71c9ee95-397d-4183-aa71-a57f577ed8eb"/>
+				<textElement>
+					<font size="8"/>
+				</textElement>
+				<textFieldExpression><![CDATA[$F{withdrawals}]]></textFieldExpression>
+			</textField>
+			<textField isBlankWhenNull="true">
+				<reportElement x="137" y="0" width="52" height="14" uuid="5761a630-b5b4-4397-9871-cb9778c27b1e"/>
+				<textElement>
+					<font size="8"/>
+				</textElement>
+				<textFieldExpression><![CDATA[$F{saldo}]]></textFieldExpression>
+			</textField>
+			<textField isBlankWhenNull="true">
+				<reportElement x="189" y="0" width="60" height="14" uuid="1fd16a8c-1ea4-4486-8e6c-cc075f5f5feb"/>
+				<textElement>
+					<font size="8"/>
+				</textElement>
+				<textFieldExpression><![CDATA[$F{withdrawals_purpose}]]></textFieldExpression>
+			</textField>
+			<textField isBlankWhenNull="true">
+				<reportElement x="249" y="0" width="71" height="14" uuid="2edd1cfa-40c2-4253-8a13-8911f04ec6e9"/>
+				<textElement>
+					<font size="8"/>
+				</textElement>
+				<textFieldExpression><![CDATA[$F{user_datetime}]]></textFieldExpression>
+			</textField>
+		</band>
+	</detail>
+	<columnFooter>
+		<band height="21" splitType="Stretch">
+			<line>
+				<reportElement x="0" y="1" width="320" height="1" uuid="8a864a54-f2d3-4bca-ac56-38042796f3da"/>
+			</line>
+			<textField>
+				<reportElement x="40" y="1" width="45" height="14" uuid="c659dc00-fd1d-4622-a568-3bfdd1ab37bf"/>
+				<textElement>
+					<font size="8" isBold="true" isUnderline="true"/>
+				</textElement>
+				<textFieldExpression><![CDATA[$V{Total_Depositos}]]></textFieldExpression>
+			</textField>
+			<textField>
+				<reportElement x="85" y="1" width="52" height="14" uuid="b71e72ba-2d5e-460e-afd5-0c323eecd4a8"/>
+				<textElement>
+					<font size="8" isBold="true" isUnderline="true"/>
+				</textElement>
+				<textFieldExpression><![CDATA[$V{Total_Retiradas}]]></textFieldExpression>
+			</textField>
+			<textField>
+				<reportElement x="137" y="1" width="69" height="14" uuid="130314cd-1f23-4b27-b592-7b40c8b76ed1"/>
+				<textElement>
+					<font size="8" isBold="true" isUnderline="true"/>
+				</textElement>
+				<textFieldExpression><![CDATA[$V{Total_Saldos}]]></textFieldExpression>
+			</textField>
+			<textField>
+				<reportElement x="0" y="1" width="40" height="14" uuid="c46517da-a04f-4b34-ac08-babffe29ac0b"/>
+				<textElement textAlignment="Right"/>
+				<textFieldExpression><![CDATA[$P{varTotal}]]></textFieldExpression>
+			</textField>
+		</band>
+	</columnFooter>
+	<pageFooter>
+		<band height="46" splitType="Stretch">
+			<textField>
+				<reportElement x="40" y="0" width="53" height="14" uuid="82f27513-0322-4789-87d7-cb7a482c81ad"/>
+				<textFieldExpression><![CDATA[$P{user}]]></textFieldExpression>
+			</textField>
+			<textField>
+				<reportElement x="0" y="32" width="100" height="14" uuid="a217638d-9a58-45f1-9c88-33ec28e232d6"/>
+				<textElement>
+					<font size="8"/>
+				</textElement>
+				<textFieldExpression><![CDATA[$P{date_prt}]]></textFieldExpression>
+			</textField>
+			<textField>
+				<reportElement x="0" y="0" width="40" height="14" uuid="e18c473b-5678-4b75-8056-b070aa3f40f3"/>
+				<textFieldExpression><![CDATA[$P{usertitle}]]></textFieldExpression>
+			</textField>
+		</band>
+	</pageFooter>
+	<summary>
+		<band height="42" splitType="Stretch"/>
+	</summary>
+</jasperReport>

@@ -1,0 +1,652 @@
+lang_option","english","portuguese","spanish","french
+login","Login","Entrar","Iniciar sesi&oacute;n","Connexion
+username","Username","Usuario","Usuario","Utilisateur
+user","User","Usuario","Usuario","Utilisateur
+users","Users","Usuarios","Usuarios","Utilisateurs
+password","Password","Senha","Clave","Mot de passe
+page_login","Login Page","Pagina de Entrada","P&aacute;gina de inicio","Page d&apos;accueil
+hardware","Hardware","Ferragens","Hardware","Mat&eacute;riel
+drugstore","Drugstore","Farmacia","Farmacia","Pharmacie
+sale of parts","Sale of Parts","Venda de Pe&ccedil;as","Venta de Repuestos","Vente de pi&egrave;ces
+grocery store","Grocery store","Mercearia","Tienda de comestibles","&Eacute;picerie
+restaurant","restaurant","Restaurant","restaurante","le restaurant
+pub","Pub","Bar","pub","Pub
+stock_management_system","Stock Management System","Sistema de Gest&atilde;o de Stock","Sistema de gesti&oacute;n de existencias","Syst&egrave;me de gestion des stocks
+change_my_password","Change my password","Alterar minha senha","cambiar mi contrase&ntilde;a","changer mon mot de passe
+refresh","Refresh","Refrescar","Actualizar","Rafra&icirc;chir
+see_last_orders","See last orders","Ver &uacute;ltimos pedidos","ver &uacute;ltimos pedidos","voir les derni&egrave;res commandes
+client","Client","Cliente","Cliente","Client
+busy","Busy","Ocupado","Ocupado","Occup&eacute;
+free","Free","Livre","Gratis","Libre
+pending","Pending","Pendente","Pendiente","En attente
+order","Order","Ordem","Pedido","Commande
+group","Group","Grupo","Grupo","Grouper
+prod code","Prod Code","Prod C&oacute;digo","C&oacute;digo de producci&oacute;n","Code produit
+barcode","Barcode","C&oacute;digo de Barra","Codigo de barra","code &agrave; barre
+type","Type","Tipo","Tipo","Taper
+category","Category","Categoria","Categor&iacute;a","Cat&eacute;gorie
+article","Article","Artigo","Art&iacute;culo","Article
+amount","Quantity","Quantidade","La cantidad","La quantit&eacute;
+price","Price","Pre&ccedil;o","Precio","Prix
+marked_rmv","Marked Rmv","Marcado Rmv","Rmv marcado","Marqu&eacute; Rmv
+removed","removed","Removido","remoto","supprim&eacute;
+removal","Removal","Remo&ccedil;&atilde;o","Eliminaci&oacute;n","Suppression
+images","Images","Imagens","Im&aacute;genes","Images
+view_payment_requests","View payment requests","Ver pedidos de pagamento","Ver solicitudes de pago","Voir les demandes de paiement
+to_search_for","To search for","Procurar","Buscar","Rechercher
+purchases","Purchases","Compras","compras","Achats
+sales","Sales","Vendas","Ventas","Ventes
+expenses","Expenses","Despesas","Gasto","D&eacute;pense
+invalid_products_no_conditions_of_use","Invalid products (no conditions of use)","Produtos invalidados (sem condi&ccedil;&otilde;es de uso)","Productos no v&aacute;lidos (sin condiciones de uso)","Produits invalides (pas de conditions d&apos;utilisation)
+previous","Previous","Anterior","Anterior","Pr&eacute;c&eacute;dent
+next","Next","Proximo","pr&oacute;ximo","Suivant
+navigate_to","navigate to","Navegar para","navegar a","aller vers
+invalid_products","invalid products","Produtos invalidos","productos inv&aacute;lidos","produits invalides
+values_by_category","Values by category","Valores por categoria","Valores por categor&iacute;a","Valeurs par cat&eacute;gorie
+values_by_category_and_time","Values by category and time","Valores por categoria e tempo","Valores por categor&iacute;a y tiempo","Valeurs par cat&eacute;gorie et temps
+click_here","Click here","Clique aqui","Haga clic aqu&iacute;","Cliquez ici
+to_generate_backup","to generate backup","para gerar backup","para generar respaldo","pour g&eacute;n&eacute;rer une sauvegarde
+to_restore_database","to restore database","para restaurar banco de dados","para restaurar la base de datos","pour restaurer la base de donn&eacute;es
+the_database_will_only_be_restored_if_it_is_done.","The database will only be restored if it is done.","O banco de dados ser&aacute; restaurado apenas se estiver fazio","La base de datos solo se restaurar&aacute; si se hace.","La base de donn&eacute;es ne sera restaur&eacute;e que si cela est fait.
+designation_and_location","Designation and Location","Designa&ccedil;&atilde;o e Localiza&ccedil;&atilde;o","Designaci&oacute;n y Ubicaci&oacute;n","D&eacute;signation et emplacement
+records_per_table","records per table","Registos por tabela","registros por tabla","enregistrements par table
+logo","Logo","LogoTipo","Logo","Logo
+designation","Designation","Designa&ccedil;&atilde;o","Designacion","La d&eacute;signation
+location","Location","Localiza&ccedil;&atilde;o","Localizaci&oacute;n","Emplacement
+backuplink","Backup(link)","Backup(link)","Copia de seguridad (enlace)","Sauvegarde(lien)
+users","users","Usu&aacute;rios","usuarios","utilisateurs
+sale/price","Sale/Price","Venda/Pre&ccedil;o","Precio de venta","Prix ??de vente
+status","Status","Estado","Estado","Statut
+show_in_report","Show in Report","Motrar no Relat&oacute;rio","Mostrar en informe","Afficher dans le rapport
+products","Products","Produtos","productos","Des produits
+group/manufacture","Group/Manufacture","Grupo/Fabrica","Grupo/Fabricaci&oacute;n","Groupe/Fabrication
+tables_total","Tables (total)","Mesas (total)","Mesas (totales)","Tableaux (total)
+minimum_number","minimum number","N&uacute;mero m&iacute;nimo","n&uacute;mero m&iacute;nimo","nombre minimal
+maximum","maximum","M&iacute;ximo","m&aacute;ximo","maximum
+printing_of","printing of","Impress&atilde;o de","impresi&oacute;n de","impression de
+generalpurchase/sales/expenses","General(Purchase/Sales/Expenses)","Geral(Compra/Vendas/Despesas)","General (Compras/Ventas/Gastos)","G&eacute;n&eacute;ral (Achats/Ventes/D&eacute;penses)
+purchases/sales","Purchases/Sales","Compras/Vendas","Compras/Ventas","Achats/Ventes
+stock_by_product","stock by product","Stock por produto","existencias por producto","stock par produit
+deposits/debts_customers","Deposits/Debts (Customers)","Depositos/D&iacute;vidas(Clientes)","Dep&oacute;sitos/Deudas (Clientes)","D&eacute;p&ocirc;ts/Dettes (Clients)
+deposits/debts_amounts","Deposits/Debts (Amounts)","Depositos/D&iacute;vidas(Valores)","Dep&oacute;sitos/Deudas (Importes)","D&eacute;p&ocirc;ts/Dettes (Montants)
+portuguese","Portuguese","Portugues","portugues","Portugais
+english","English","Ingles","Ingles","Anglais
+spanish","Spanish","Espanhol","Espanol","Espagnol
+french","French","Frances","Frances","Francais
+view_data","View Data","Ver Dados","Ver datos","Afficher les donn&eacute;es
+fetch_data_to_view","fetch data to view","buscar dados para visualizar","obtener datos para ver","r&eacute;cup&eacute;rer les donn&eacute;es &agrave; afficher
+reports","reports","Relat&oacute;rios","informes","rapports
+print_reports","print reports","imprimir relat&oacute;rios","imprimir informes","imprimer des rapports
+see_tabs","see tabs","Ver Abas","ver pesta&ntilde;as","voir les onglets
+see_shopping_tab","see Shopping tab","ver aba Compras","ver pesta&ntilde;a de Compras","voir l&apos;onglet Shopping
+see_previous_sales_tab","see Previous Sales tab","ver aba Vendas Anteriores","ver pesta&ntilde;a Ventas anteriores","voir l&apos;onglet Ventes pr&eacute;c&eacute;dentes
+see_tab_expenses","see tab Expenses","ver aba Despesas","ver pesta&ntilde;a Gastos","voir onglet D&eacute;penses
+see_sales_tab","see Sales tab","ver aba Vendas","ver pesta&ntilde;a Ventas","voir l&apos;onglet Ventes
+see_deposits_tab","see Deposits tab","ver aba Depositos","ver pesta&ntilde;a Dep&oacute;sitos","voir l&apos;onglet D&eacute;p&ocirc;ts
+view_and_manage_the_management_tab","view and manage the Management tab","visualizar e gerir aba de Gest&atilde;o","ver y administrar la pesta&ntilde;a Administraci&oacute;n","afficher et g&eacute;rer l&apos;onglet Gestion
+insert_records","insert records","Inserir registos","insertar registros","ins&eacute;rer des enregistrements
+insert","insert","inserir","insertar","ins&eacute;rer
+insert_and_edit_user","insert and edit user","inserir e editar usu&aacute;rio","insertar y editar usuario","ins&eacute;rer et modifier l&apos;utilisateur
+insert_purchases","insert purchases","inserir compras","insertar compras","ins&eacute;rer les achats
+enter_expenses","enter expenses","inserir despesas","ingresar gastos","saisir les d&eacute;penses
+enter_sales","enter sales","inserir vendas","entrar en ventas","saisir les ventes
+insert_invalid_articles","insert invalid articles","inserir artigos invalidos","insertar art&iacute;culos inv&aacute;lidos","ins&eacute;rer des articles invalides
+insert_sale/price","insert sale/price","inserir venda/pre&ccedil;o","insertar oferta/precio","ins&eacute;rer vente/prix
+insert_deposit","insert deposit","inserir deposito","insertar deposito","ins&eacute;rer le d&eacute;p&ocirc;t
+allocate_stock","allocate stock","Alocar stock","asignar existencias","allouer des stocks
+put_allocated_stock_as_processed","Put allocated stock as processed","Colocar stock alocado como processado","Poner el stock asignado como procesado","Mettre le stock allou&eacute; tel qu&apos;il est trait&eacute;
+generate_and_download_backup","Generate and Download Backup","Gerar e Baixar Backup","Generar y Descargar Backup","G&eacute;n&eacute;rer et t&eacute;l&eacute;charger la sauvegarde
+restore_database","Restore Database","Restaurar Banco de Dados","Restaurar base de datos","Restaurer la base de donn&eacute;es
+This sale with the number","This sale with the number","Esta venda com o n&uacute;mero","Esta venta con el n&uacute;mero","Cette vente au num&eacute;ro
+not yet registered","not yet registered","ainda n&atilde;o &nbsp;foi registada","a&uacute;n no registrado","pas encore enregistr&eacute;
+file_upload_for_database_restore","File Upload for Database Restore","Carregamento de Ficheiro para Restauracao de Banco de Dados","Carga de archivos para la restauraci&oacute;n de la base de datos","T&eacute;l&eacute;chargement de fichier pour la restauration de la base de donn&eacute;es
+select_the_file_to_upload","Select the file to upload","Seleciona o ficheiro a fazer carregamento","Selecciona el archivo a subir","S&eacute;lectionnez le fichier &agrave; t&eacute;l&eacute;charger
+load_images_with_the_extension","Load images with the extension","Carregue imagens com a extensao","Cargar im&aacute;genes con la extensi&oacute;n","Charger des images avec l&apos;extension
+file_upload_for_database_restore","File Upload for Database Restore","Carregamento de Ficheiro para Restauracao de Banco de Dados","Carga de archivos para la restauraci&oacute;n de la base de datos","T&eacute;l&eacute;chargement de fichier pour la restauration de la base de donn&eacute;es
+after_configuring_designation_and_users,_it_cannot_refresh_the_browser","After configuring designation and users, it cannot refresh the browser","Apos configurar designacao e usuarios, nao pode refrescar o navegador","","Apr&egrave;s avoir configur&eacute; la d&eacute;signation et les utilisateurs, il ne peut pas actualiser le navigateur
+login_page","Login page","Pagina para Entrada","P&aacute;gina de entrada","Page d&apos;accueil
+&uacute;last_orders_placed_in_descending_order","&Uacute;Last orders placed in descending order","&Uacute;ltimos pedidos feitos por ordem decrescente","","&Uacute;Derni&egrave;res commandes pass&eacute;es par ordre d&eacute;croissant
+successfully_inserted","successfully inserted","Inserido com sucesso","","ins&eacute;r&eacute; avec succ&egrave;s
+error_processing","Error processing","Erro ao processar","","Traitement des erreurs
+no_connection,_try_later","No connection, try later","Sem conexao, tente mais tarde","","Pas de connexion, r&eacute;essayez plus tard
+upload","Upload","Carregar","","Charger
+an_error_has_occurred","An error has occurred","Ocorreu um erro","Ocurrio un error","Une erreur est survenue
+you_don&apos;t_have_privileges_to_insert_or_update_sales","You don&apos;t have privileges to insert or update SALES","N&atilde;o tem previlegios para inserir ou atualizar VENDAS","No tienes privilegios para insertar o actualizar VENTAS","Vous n&apos;avez pas les privil&egrave;ges pour ins&eacute;rer ou mettre &agrave; jour les VENTES
+this_order_with_code","This order with code","Este pedido com c&oacute;digo","Este pedido con c&oacute;digo","Cette commande avec code
+order","Order","Ordem","Ordenar","Ordre
+article","Article","Artigo","Art&iacute;culo","Article
+prod_code","Prod Code","Prod C&oacute;digo","C&oacute;digo de producci&oacute;n","Code produit
+bar_code","Bar code","C&oacute;digo de Barra","c&oacute;digo de barras","Code &agrave; barre
+the_amount.","Quantity.","Quantidade.","La cantidad.","Le montant.
+price","price","Pre&ccedil;o","precio","le prix
+date","Date","Data","Fecha","Date
+hour","Hour","Hora","Hora","Heure
+go_to_list_of_deposits/debts","go to List of deposits/debts","ir para Lista de depositos/d&iacute;vidas","ir a Lista de dep&oacute;sitos/d&eacute;bitos","aller &agrave; Liste des d&eacute;p&ocirc;ts/dettes
+customer_shopping_list","Customer shopping list","Lista de compras do cliente &nbsp; ","lista de compras del cliente","Liste de courses des clients
+deposit","Deposit","Deposito","Dep&oacute;sito","Verser
+used","Used","Usado","Us&oacute;","Utilis&eacute;
+balance","Balance","Saldo","Balance","Solde
+ret_purpose","Ret Purpose","Ret Finalidade","Retar Prop&oacute;sito","Objectif de retraite
+print_out","Print out","Imprimir","Imprimir","Imprimer
+go_to_shopping_list","go to shopping list","ir para Lista de compras","ir a la lista de la compra","aller &agrave; la liste de courses
+list_of_deposits/debts","List of deposits/debts","Lista de depositos/d&iacute;vidas","Lista de dep&oacute;sitos/d&eacute;bitos","Liste des d&eacute;p&ocirc;ts/dettes
+value","Value","Valor","Valor","&Eacute;valuer
+purpose_of_withdrawal","Purpose of withdrawal","Finalidade da retirada","Finalidad de la retirada","But du retrait
+purchase","Purchase","Compra","Compra","Acheter
+devolution","Devolution","Devolucao ","Devoluci&oacute;n","D&eacute;volution
+registration_error","registration error","Erro de registo","error de registro","Erreur d&apos;enregistrement
+operation_type","Operation Type","Tipo da Operacao","Tipo de operaci&oacute;n","Type d&apos;op&eacute;ration
+deposit","Deposit","Deposito","Dep&oacute;sito","Verser
+debt","Debt","Divida","Deuda","Dette
+withdrawal","withdrawal","Retirada","retiro","Retrait
+deposits/debts/purchases","Deposits/Debts/Purchases","Depositos/D&iacute;vidas/Compras","Dep&oacute;sitos/Deudas/Compras","D&eacute;p&ocirc;ts/Dettes/Achats
+customer_id","customer id","Id do cliente","Identificaci&oacute;n del cliente","N &deg; de client
+client_name","Client name","Nome do Cliente","Nombre del cliente","Nom du client
+place_of_residence","place of residence","Local de residencia","Lugar de residencia","lieu de r&eacute;sidence
+bi","BI","BI","BI","BI
+telephone","Telephone","Telefone &nbsp;","Tel&eacute;fono","T&eacute;l&eacute;phone
+confirm_with_ok_to_continue_or_cancel_to_cancel","Confirm with OK to continue or CANCEL to cancel","Confirma com OK para continuar ou CANCEL para cancelar","Confirme con OK para continuar o CANCELAR para cancelar","Confirmez avec OK pour continuer ou ANNULER pour annuler
+portuguese","Portuguese","Portugues","Portugu&eacute;s","Portugais
+english","English","Ingles","Ingl&eacute;s","Anglais
+spanish","Spanish","Espanhol","Espa&ntilde;ol","Espagnol
+french","French","Frances","Franc&eacute;s","Fran&ccedil;ais
+language","Language","Lingua","Idioma","Langue
+current_customer_id","current customer id","Cliente atual id","id de cliente actual","identifiant client actuel
+new","New","Novo","Nuevo","Nouveau
+name","Name","Nome","Nombre","Nom
+link_the_sale_to_a_registered_customer?_if_yes_click","Link the sale to a registered customer? if yes click","Associar a venda a um cliente registado? Se sim clique","&iquest;Vincular la venta a un cliente registrado? si es as&iacute;, haga clic","Associer la vente &agrave; un client enregistr&eacute; ? si oui cliquez
+associating_with_the_customer","Associating with the customer","Associando ao cliente","Asociarse con el cliente","Associer au client
+group","Group","Grupo","Grupo","Groupe
+type","Type","Tipo","Escribe","Taper
+category","Category","Categoria","Categor&iacute;a","Cat&eacute;gorie
+the_amount","The amount","Quantidade","La cantidad","Le montant
+process_sale","Process Sale","Processar Venda","Proceso de venta","Processus de vente
+registered_customer","registered customer","Cliente registado","cliente registrado","client enregistr&eacute;
+invalid_products","Invalid Products","Produtos Invalidados","Productos no v&aacute;lidos","Produits invalides
+other_currency","other currency","Outra Moeda","otra moneda","autre devise
+deadline","Deadline","Prazo","Plazo","Date limite
+batch","Batch","Lote","Lote","Lot
+previous","Previous","Anterior","Anterior","Pr&eacute;c&eacute;dent
+next","next","Pr&oacute;ximo","Siguiente","Suivant
+invalid_products_(no_conditions_of_use)","Invalid products (no conditions of use)","Produtos invalidados (sem condi&ccedil;&otilde;es de uso)","Productos no v&aacute;lidos (sin condiciones de uso)","Produits invalides (pas de conditions d&apos;utilisation)
+electricity","electricity","Eletrecidade","electricidad","&eacute;lectricit&eacute;
+water","Water","Agua","Agua","Eau
+other","Other","Outra","Otro","Autre
+value","Value","Valor","Valor","&Eacute;valuer
+observation","Observation","Observa&ccedil;&atilde;o","Observaci&oacute;n","Observation
+go_to_top","go to top","Ir ao topo","ve arriba","aller en haut
+the_summary_and_table_only_show","The summary and table only show","O resumo e a tabela apenas mostram","El resumen y la tabla solo muestran","Le r&eacute;sum&eacute; et le tableau ne montrent que
+deposits","deposits","Depositos","dep&oacute;sitos","d&eacute;p&ocirc;ts
+debts","debts","D&iacute;vidas","deudas","dettes
+and","and","e","y","et
+to_see","to see","para ver","para mirar","&agrave; voir
+click_on_customer","click on customer","clique no cliente","haga clic en el cliente","cliquer sur client
+navigate_to","navigate to","Navegar para","navegar a","aller vers
+users","users","Usu&aacute;rios","usuarios","utilisateurs
+products","Products","Produtos","Productos","Des produits
+groups/manufacture","Groups/Manufacture","Grupos/Fabrica","Grupos/Fabricaci&oacute;n","Groupes/Fabrication
+tables","tables","Mesas","mesas","les tables
+system_id","System ID","Id do Sistema","identificaci&oacute;n del sistema","ID syst&egrave;me
+password","Password","Senha","Clave","Mot de passe
+open","Open","Abrir","Abierto","Ouvert
+validate","Validate","Validar","Validar","Valider
+enable_fields","Enable Fields","Abilitar Campos","Habilitar campos","Activer les champs
+logo","Logo","LogoTipo","Logo","Logo
+show_in_the_report","Show in the Report","Motrar no Relat&oacute;rio","Mostrar en el Informe","Afficher dans le rapport
+designation","Designation","Designa&ccedil;&atilde;o","Designacion","La d&eacute;signation
+location","Location","Localiza&ccedil;&atilde;o","Ubicaci&oacute;n","Emplacement
+add_or_update","Add or Update","Adicionar ou Atualizar","Agregar o actualizar","Ajouter ou mettre &agrave; jour
+user","User","Usuario","Usuario","Utilisateur
+first_names","First Names","Primeiros Nomes","Nombre de pila","Pr&eacute;noms
+surname","Surname","Apelido","Apellido","Nom de famille
+category","Category","Categoria","Categor&iacute;a","Cat&eacute;gorie
+manager","manager","Gestor","gerente","gestionnaire
+food","food","Comida","alimento","aliments
+drink","Drink","Bebida","Beber","Boisson
+unit","Unit","Unidade","Unidad","Unit&eacute;
+change_groups_and_prices","Change groups and prices","Alterar grupos e pre&ccedil;os","Cambiar grupos y precios","Modifier les groupes et les prix
+the_database_will_be&aacute;_only_restored_if_done","The database will be&aacute; only restored if done","O banco de dados ser&aacute; restaurado apenas se estiver fazio","La base de datos ser&aacute; solo se restaura si se hace","La base de donn&eacute;es sera&aacute; seulement restaur&eacute; si fait
+generate","generate","gerar","generar","produire
+restore_database","restore database","restaurar banco de dados","restaurar base de datos","restaurer la base de donn&eacute;es
+help_or_report_bug","Help or report bug","Ajuda ou reportar erro","Ayuda o informe de error","Aide ou rapport de bogue
+about_us","about us","Sobre n&oacute;s","sobre nosotros","&agrave; propos de nous
+this_page_only_works_with_internet","This page only works with internet","Esta pagina funciona apenas com internet","Esta pagina solo funciona con internet","Cette page ne fonctionne qu&apos;avec internet
+processing...","Processing...","A processar...","Procesando...","Traitement...
+clean","Clean","Limpar","Limpio","Nettoyer
+interpret","interpret","Intrepertar","interpretar","interpr&eacute;ter
+state","state","Estado","estado","Etat
+editing","Editing","Edita&ccedil;&atilde;o","Edici&oacute;n","&Eacute;dition
+removed","removed","Removido","remoto","supprim&eacute;
+removal","Removal","Remo&ccedil;&atilde;o","Eliminaci&oacute;n","Suppression
+not_available","Not available","Nao disponivel","No disponible","Indisponible
+general(purchase/sales/expenses)","General(Purchase/Sales/Expenses)","Geral(Compra/Vendas/Despesas)","General (Compras/Ventas/Gastos)","G&eacute;n&eacute;ral (Achats/Ventes/D&eacute;penses)
+purchases/sales","Purchases/Sales","Compras/Vendas","Compras/Ventas","Achats/Ventes
+expenses","Expenses","Despesas","Gastos","D&eacute;penses
+stock_by_product","stock by product","Stock por produto","existencias por producto","stock par produit
+deposits/debts_(customers)","Deposits/Debts (Customers)","Depositos/D&iacute;vidas(Clientes)","Dep&oacute;sitos/Deudas (Clientes)","D&eacute;p&ocirc;ts/Dettes (Clients)
+see_&uacute;latest_orders","See &Uacute;Latest Orders","Ver &Uacute;ltimos Pedidos","Ver &Uacute;&Uacute;ltimos pedidos","Voir &Uacute;Derni&egrave;res commandes
+add_article","Add Article","Adicionar Artigo","A&ntilde;adir art&iacute;culo","Ajouter un article
+images","Images","Imagens","Im&aacute;genes","Images
+requests","Requests","Pedidos","Peticiones","Demandes
+past_sales","Past Sales","Vendas Anteriores","Ventas pasadas","Ventes pass&eacute;es
+deposits/debts","Deposits/Debts","Depositos/D&iacute;vidas","Dep&oacute;sitos/Deudas","D&eacute;p&ocirc;ts/Dettes
+allocations","Allocations","Aloca&ccedil;&otilde;es","Asignaciones","Allocations
+about_us","about us","Sobre n&oacute;s","sobre nosotros","&agrave; propos de nous
+past_sales","Past Sales","Vendas Anteriores","Ventas pasadas","Ventes pass&eacute;es
+help_or_report_bug","Help or report bug","Ajuda ou reportar erro","Ayuda o informe de error","Aide ou rapport de bogue
+customer_id","customer id","Id do Cliente","Identificaci&oacute;n del cliente","N &deg; de client
+content","Content","Conteudo","Contenido","Contenu
+about_us","about us","Sobre n&oacute;s","sobre nosotros","&agrave; propos de nous
+this_page_only_works_with_internet","This page only works with internet","Esta pagina funciona apenas com internet","Esta pagina solo funciona con internet","Cette page ne fonctionne qu&apos;avec internet
+manual","Manual","Manual","Manual","Manuel
+close","Close","Fechar","Cerca","proche
+product","Product","Produto","Producto","Produit
+here","here","aqui","aqu&iacute;","ici
+for","for","para","por","pour
+click","Click","Clique","Hacer clic","Cliquez sur
+insert","Insert","Inserir","Insertar","Ins&eacute;rer
+cashier","Cashier","Caixa","Cajero","La caissi&egrave;re
+enable_fields","Enable Fields","Abilitar Campos","Habilitar campos","Activer les champs
+unique_installation_number","Unique installation number","N&uacute;mero &uacute;nico da instala&ccedil;&atilde;o","N&uacute;mero de instalaci&oacute;n &uacute;nico","Num&eacute;ro d&apos;installation unique
+the_summary_and_table_only_show","The summary and table only show","O resumo e a tabela apenas mostram","El resumen y la tabla solo muestran","Le r&eacute;sum&eacute; et le tableau ne montrent que
+deposits","deposits","Depositos","dep&oacute;sitos","d&eacute;p&ocirc;ts
+debts","debts","D&iacute;vidas","deudas","dettes
+to_see","to see","para ver","para mirar","&agrave; voir
+click_on_customer","click on customer","clique no cliente","haga clic en el cliente","cliquer sur client
+date_expense","Date_Expense","Data_Despesa","Fecha_Gasto","Date_D&eacute;pense
+do_not_erase","do not erase","Nao apagados","no borre","ne pas effacer
+all","All","Todos","Todos","Tout
+records_per_table","records per table","Registos por tabela","registros por tabla","enregistrements par table
+view_payment_requests","View payment requests","Ver pedidos de pagamento","Ver solicitudes de pago","Voir les demandes de paiement
+manual","Manual","Manual","Manual","Manuel
+to_search_for","To search for","Procurar","Buscar","Rechercher
+submit","Submit","Enviar","Enviar","Soumettre
+navigate_to","navigate to","Navegar para","navegar a","aller vers
+designation_and_location","Designation and Location","Designa&ccedil;&atilde;o e Localiza&ccedil;&atilde;o","Designaci&oacute;n y Ubicaci&oacute;n","D&eacute;signation et emplacement
+the_key,_software_or_subscription_has_expired","The key, software or subscription has expired","A chave,software ou subscricao expirou","La clave, el software o la suscripci&oacute;n ha caducado","La cl&eacute;, le logiciel ou l&apos;abonnement a expir&eacute;
+you_don&apos;t_have_enough_privileges_to_see_this_part","You don&apos;t have enough privileges to see this part","Nao tem previlegios suficientes para ver esta parte","No tienes suficientes privilegios para ver esta parte.","Vous n&apos;avez pas assez de privil&egrave;ges pour voir cette partie
+you_don&apos;t_have_enough_privileges_to_see_this_part","You don&apos;t have enough privileges to see this part","Nao tem previlegios suficientes para ver esta parte","No tienes suficientes privilegios para ver esta parte.","Vous n&apos;avez pas assez de privil&egrave;ges pour voir cette partie
+you_don&apos;t_have_enough_privileges_to_see_this_part","You don&apos;t have enough privileges to see this part","Nao tem previlegios suficientes para ver esta parte","No tienes suficientes privilegios para ver esta parte.","Vous n&apos;avez pas assez de privil&egrave;ges pour voir cette partie
+the_amount_of_discount_for_each_item_cannot_be_greater_than_the_amount_of_items_to_be_purchased!\nre-enter_the_amount","The amount of discount for each item cannot be greater than the amount of items to be purchased!\nRe-enter the amount","A quantidade de desconto de cada artigo n&atilde;o pode ser superior a quantidade de artigos a comprar!\nVolta a colocar a quantidade","&iexcl;La cantidad de descuento para cada art&iacute;culo no puede ser mayor que la cantidad de art&iacute;culos a comprar!\nVuelva a ingresar la cantidad","Le montant de la remise pour chaque article ne peut pas &ecirc;tre sup&eacute;rieur au nombre d&apos;articles &agrave; acheter !\nSaisissez &agrave; nouveau le montant
+language_change_takes_effect_after_restarting_or_entering_new_page","Language change takes effect after restarting or entering new page","A mudanca de lingua tem efeito apos reiniciar ou entrar em nova pagina","El cambio de idioma entra en vigor despu&eacute;s de reiniciar o ingresar a una nueva p&aacute;gina","Le changement de langue prend effet apr&egrave;s le red&eacute;marrage ou l&apos;entr&eacute;e dans une nouvelle page
+this_table_is_still_occupied,_if_you_are_the_responsible_user_you_can_only_add_articles","This table is still occupied, if you are the responsible user you can only add articles","Esta mesa ainda esta ocupada, se for o usuario responsavel apenas pode adicionar artigos","Esta mesa a&uacute;n est&aacute; ocupada, si eres el usuario responsable solo puedes agregar art&iacute;culos","Cette table est toujours occup&eacute;e, si vous &ecirc;tes l&apos;utilisateur responsable vous ne pouvez ajouter que des articles
+pending_payment,_ask_to_resolve_the_payment_situation_to_free_the_place","Pending payment, ask to resolve the payment situation to free the place","Pagamento pendente, pede para resolver a situacao de pagamento para livrar o lugar","Pendiente de pago, pide resolver situaci&oacute;n de pago para liberar plaza","En attente de paiement, demandez &agrave; r&eacute;gler la situation de paiement pour lib&eacute;rer la place
+resource_unavailable","Resource unavailable","Recurso indisponivel","Recurso no disponible","Ressource indisponible
+chose_food_and_alcohol,_rectify","Chose FOOD and ALCOHOL, rectify","Escolheu COMIDA e ALCOOL, retificar","Elija ALIMENTOS y ALCOHOL, rectifique","Choisissez NOURRITURE et ALCOOL, rectifiez
+create_new_customer","create new customer","Criar novo cliente","crear nuevo cliente","cr&eacute;er un nouveau client
+select_the_customer_in_the_table_referring_to_the_customers_in_this_tab_and_proceed_with_the_sale","Select the Customer in the table referring to the customers in this tab and proceed with the sale","Selecione o Cliente na tabela referente aos clientes nesta aba e prossiga com a venda","Seleccione el Cliente en la tabla que se refiere a los clientes en esta pesta&ntilde;a y proceda con la venta","S&eacute;lectionnez le client dans le tableau faisant r&eacute;f&eacute;rence aux clients dans cet onglet et proc&eacute;dez &agrave; la vente
+price_is_not_considered_in_this_section","Price is not considered in this section","O pre&ccedil;o n&atilde;o &eacute; considerado nesta sec&ccedil;&atilde;o","El precio no se considera en esta secci&oacute;n.","Le prix n&apos;est pas consid&eacute;r&eacute; dans cette section
+fill_in_customer_name","Fill in customer name","Prencher nome do cliente","Complete el nombre del cliente","Remplissez le nom du client
+successfully_logout","Successfully Logout","Saiu com sucesso","Sali&oacute; con &eacute;xito","Quitt&eacute; avec Succ&egrave;s
+version","Version","Vers&atilde;o","Versi&oacute;n","Version
+wrong_credentials","Wrong Credentials","Cred&ecirc;ncias erradas","Credenciales incorrectas","Informations d&apos;identification erron&eacute;es
+choose_at_least_one_option","Choose at least one option","Escolhe pelomenos uma op&ccedil;&atilde;o","Elige al menos una opci&oacute;n","Choisissez au moins une option
+blue_colors_meaning","Blue colors mean the categories already have data in the system","Corres azuis significam que a categorias j&aacute; tem dados no sistema","Los colores azules significan que las categor&iacute;as ya tienen datos en el sistema","Les couleurs bleues signifient que les cat&eacute;gories ont d&eacute;j&agrave; des donn&eacute;es dans le syst&egrave;me
+current_password","Current Password","Senha actual","Contrase&ntilde;a Actual","Mot de Passe Actuel
+new_password","New password","Nova Senha","Nueva Contrase&ntilde;a","Nouveau Mot de Passe
+repeat_new_password","Repeat New Password","Repitir nova Senha","Repita la Nueva Contrase&ntilde;a","R&eacute;p&eacute;t&eacute; le nouveau mot de passe
+accept","Accept","Aceitar","Aceptar","Accepter
+artcls_cnfrm_msg","Before uploading an image, save the changes made.\nConfirm with OK to continue or CANCEL to cancel","Antes de carregar uma imagem, salve as alteracoes feitas.\nConfirma com OK para continuar ou CANCEL para cancelar","Antes de cargar una imagen, guarde los cambios realizados.\nConfirme con OK para continuar o CANCELAR para cancelar","Avant de t&eacute;l&eacute;charger une image, enregistrez les modifications apport&eacute;es.\nConfirmez avec OK pour continuer ou ANNULER pour annuler
+update","Update","Atualizar","Actualizar","Mise &agrave; jour
+your_session_has_expired","Your Session Has Expired","A tua sess&atilde;o expirou","Su sesi&oacute;n ha caducado","Votre session a expir&eacute;
+change_article_attributes","Change Article Attributes","Alterar atributos de artigos","Cambiar los atributos del art&iacute;culo","Modifier les attributs de l&apos;article
+the_key_has_expired","The Key Has Expired","A chave experiou","La clave ha caducado","La cl&eacute; a expir&eacute;
+process","Process","Processar","","Ventaja","Avance
+type_the_validation_key","Type the validation key","Digite a chave de valida&ccedil;&atilde;o","Introduce la clave de validaci&oacute;n","Entrez la cl&eacute; de validation
+setting_up_the_system","Setting up the System","Configurando o sistema","configurar el sistema","configuration du syst&egrave;me
+ctrl_v_to_paste_text","Ctrl & V to paste text in the box","Ctrl & V para passar texto na caixa","Ctrl & V para pasar texto en el cuadro","Ctrl & V passer du texte dans la case
+privileges","Privileges","Privil&eacute;gios","privilegios","privil&egrave;ges
+associate_the_user_with_the_package","Associate the user with the package","associa o usu&aacute;rio ao pacote de ","Asociar el usuario con el paquete","Associer l&apos;utilisateur au package
+view_data","View Data","Ver Dados","Ver datos","Afficher les donn&eacute;es
+fetch_data_to_view","fetch data to view","buscar dados para visualizar","obtener datos para ver","r&eacute;cup&eacute;rer les donn&eacute;es &agrave; afficher
+reports","reports","Relat&oacute;rios","informes","rapports
+print_reports","print reports","imprimir relat&oacute;rios","imprimir informes","imprimer des rapports
+see_tabs","see tabs","Ver Abas","ver pesta&ntilde;as","voir les onglets
+see_shopping_tab","see Shopping tab","ver aba Compras","ver pesta&ntilde;a de Compras","voir l&apos;onglet Shopping
+see_previous_sales_tab","see Previous Sales tab","ver aba Vendas Anteriores","ver pesta&ntilde;a Ventas anteriores","voir l&apos;onglet Ventes pr&eacute;c&eacute;dentes
+see_tab_expenses","see tab Expenses","ver aba Despesas","ver pesta&ntilde;a Gastos","voir onglet D&eacute;penses
+see_sales_tab","see Sales tab","ver aba Vendas","ver pesta&ntilde;a Ventas","voir l&apos;onglet Ventes
+see_deposits_tab","see Deposits tab","ver aba Depositos","ver pesta&ntilde;a Dep&oacute;sitos","voir l&apos;onglet D&eacute;p&ocirc;ts
+view_and_manage_the_management_tab","view and manage the Management tab","visualizar e gerir aba de Gest&atilde;o","ver y administrar la pesta&ntilde;a Administraci&oacute;n","afficher et g&eacute;rer l&apos;onglet Gestion
+insert_records","insert records","Inserir registos","insertar registros","ins&eacute;rer des enregistrements
+insert","insert","inserir","insertar","ins&eacute;rer
+insert_and_edit_user","insert and edit user","inserir e editar usu&aacute;rio","insertar y editar usuario","ins&eacute;rer et modifier l&apos;utilisateur
+insert_purchases","insert purchases","inserir compras","insertar compras","ins&eacute;rer les achats
+enter_expenses","enter expenses","inserir despesas","ingresar gastos","saisir les d&eacute;penses
+enter_sales","enter sales","inserir vendas","entrar en ventas","saisir les ventes
+insert_invalid_articles","insert invalid articles","inserir artigos invalidos","insertar art&iacute;culos inv&aacute;lidos","ins&eacute;rer des articles invalides
+insert_sale/price","insert sale/price","inserir venda/pre&ccedil;o","insertar oferta/precio","ins&eacute;rer vente/prix
+insert_deposit","insert deposit","inserir deposito","insertar deposito","ins&eacute;rer le d&eacute;p&ocirc;t
+allocate_stock","allocate stock","Alocar stock","asignar existencias","allouer des stocks
+put_allocated_stock_as_processed","Put allocated stock as processed","Colocar stock alocado como processado","Poner el stock asignado como procesado","Mettre le stock allou&eacute; tel qu&apos;il est trait&eacute;
+generate_and_download_backup","Generate and Download Backup","Gerar e Baixar Backup","Generar y Descargar Backup","G&eacute;n&eacute;rer et t&eacute;l&eacute;charger la sauvegarde
+restore_database","Restore Database","Restaurar Banco de Dados","Restaurar base de datos","Restaurer la base de donn&eacute;es
+this_sale_with_the_number","This sale with the number","Esta venda com o n&uacute;mero","Esta venta con el n&uacute;mero","Cette vente au num&eacute;ro
+not_yet_registered","not yet registered","ainda n&atilde;o &nbsp;foi registada","a&uacute;n no registrado","pas encore enregistr&eacute;
+file_upload_for_database_restore","File Upload for Database Restore","Carregamento de Ficheiro para Restauracao de Banco de Dados","Carga de archivos para la restauraci&oacute;n de la base de datos","T&eacute;l&eacute;chargement de fichier pour la restauration de la base de donn&eacute;es
+select_the_file_to_upload","Select the file to upload","Seleciona o ficheiro a fazer carregamento","Selecciona el archivo a subir","S&eacute;lectionnez le fichier &agrave; t&eacute;l&eacute;charger
+load_images_with_the_extension","Load images with the extension","Carregue imagens com a extensao","Cargar im&aacute;genes con la extensi&oacute;n","Charger des images avec l&apos;extension
+file_upload_for_database_restore","File Upload for Database Restore","Carregamento de Ficheiro para Restauracao de Banco de Dados","Carga de archivos para la restauraci&oacute;n de la base de datos","T&eacute;l&eacute;chargement de fichier pour la restauration de la base de donn&eacute;es
+after_configuring_designation_and_users,_it_cannot_refresh_the_browser","After configuring designation and users, it cannot refresh the browser","Apos configurar designacao e usuarios, nao pode refrescar o navegador","","Apr&egrave;s avoir configur&eacute; la d&eacute;signation et les utilisateurs, il ne peut pas actualiser le navigateur
+login_page","Login page","Pagina para Entrada","P&aacute;gina de entrada","Page de connexion
+last_orders_placed_in_descending_order","&Uacute;Last orders placed in descending order","&Uacute;ltimos pedidos feitos por ordem decrescente","","&Uacute;Derni&egrave;res commandes pass&eacute;es par ordre d&eacute;croissant
+successfully_inserted","Successfully inserted","Inserido com sucesso","","ins&eacute;r&eacute; avec succ&egrave;s
+error_processing","Error processing","Erro ao processar","","Traitement des erreurs
+no_connection,_try_later","No connection, try later","Sem conexao, tente mais tarde","","Pas de connexion, r&eacute;essayez plus tard
+upload","Upload","Carregar","Subir","T&eacute;l&eacute;charger
+an_error_has_occurred","An error has occurred","Ocorreu um erro","Ocurrio un error","Une erreur est survenue
+you_don&apos;t_have_privileges_to_insert_or_update_sales","You don&apos;t have privileges to insert or update SALES","N&atilde;o tem previlegios para inserir ou atualizar VENDAS","No tienes privilegios para insertar o actualizar VENTAS","Vous n&apos;avez pas les privil&egrave;ges pour ins&eacute;rer ou mettre &agrave; jour les VENTES
+this_order_with_code","This order with code","Este pedido com c&oacute;digo","Este pedido con c&oacute;digo","Cette commande avec code
+order","Order","Ordem","Ordenar","Ordre
+article","Article","Artigo","Art&iacute;culo","Article
+prod_code","Prod Code","Prod C&oacute;digo","C&oacute;digo de producci&oacute;n","Code produit
+bar_code","Bar code","C&oacute;digo de Barra","c&oacute;digo de barras","Code &agrave; barre
+the_amount.","The amount.","Quantidade.","La cantidad.","Le montant.
+price","price","Pre&ccedil;o","precio","le prix
+date","Date","Data","Fecha","Date
+hour","Hour","Hora","Hora","Heure
+go_to_list_of_deposits/debts","go to List of deposits/debts","ir para Lista de depositos/d&iacute;vidas","ir a Lista de dep&oacute;sitos/d&eacute;bitos","aller &agrave; Liste des d&eacute;p&ocirc;ts/dettes
+customer_shopping_list","Customer shopping list","Lista de compras do cliente &nbsp; ","lista de compras del cliente","Liste de courses des clients
+deposit","Deposit","Deposito","Dep&oacute;sito","Verser
+used","Used","Usado","Us&oacute;","Utilis&eacute;
+balance","Balance","Saldo","Balance","Solde
+ret_purpose","Ret Purpose","Ret Finalidade","Retar Prop&oacute;sito","Objectif de retraite
+print_out","Print out","Imprimir","Imprimir","Imprimer
+go_to_shopping_list","go to shopping list","ir para Lista de compras","ir a la lista de la compra","aller &agrave; la liste de courses
+list_of_deposits/debts","List of deposits/debts","Lista de depositos/d&iacute;vidas","Lista de dep&oacute;sitos/d&eacute;bitos","Liste des d&eacute;p&ocirc;ts/dettes
+value","Value","Valor","Valor","&Eacute;valuer
+purpose_of_withdrawal","Purpose of withdrawal","Finalidade da retirada","Finalidad de la retirada","But du retrait
+purchase","Purchase","Compra","Compra","Acheter
+devolution","Devolution","Devolucao ","Devoluci&oacute;n","D&eacute;volution
+registration_error","registration error","Erro de registo","error de registro","Erreur d&apos;enregistrement
+operation_type","Operation Type","Tipo da Operacao","Tipo de operaci&oacute;n","Type d&apos;op&eacute;ration
+deposit","Deposit","Deposito","Dep&oacute;sito","Verser
+debt","Debt","Divida","Deuda","Dette
+withdrawal","withdrawal","Retirada","retiro","Retrait
+deposits/debts/purchases","Deposits/Debts/Purchases","Depositos/D&iacute;vidas/Compras","Dep&oacute;sitos/Deudas/Compras","D&eacute;p&ocirc;ts/Dettes/Achats
+customer_id","customer id","Id do cliente","Identificaci&oacute;n del cliente","N &deg; de client
+client_name","Client name","Nome do Cliente","Nombre del cliente","Nom du client
+place_of_residence","place of residence","Local de residencia","Lugar de residencia","lieu de r&eacute;sidence
+bi","BI","BI","BI","BI
+telephone","Telephone","Telefone","Tel&eacute;fono","T&eacute;l&eacute;phone
+confirm_with_ok_to_continue_or_cancel_to_cancel","Confirm with OK to continue or CANCEL to cancel","Confirma com OK para continuar ou CANCEL para cancelar","Confirme con OK para continuar o CANCELAR para cancelar","Confirmez avec OK pour continuer ou ANNULER pour annuler
+language","Language","Lingua","Idioma","Langue
+current_customer_id","current customer id","Cliente atual id","id de cliente actual","identifiant client actuel
+young","Young","Novo","Joven","Jeune
+name","Name","Nome","Nombre","Nom
+link_the_sale_to_a_registered_customer?_if_yes_click","Link the sale to a registered customer? if yes click","Associar a venda a um cliente registado? Se sim clique","&iquest;Vincular la venta a un cliente registrado? si es as&iacute;, haga clic","Associer la vente &agrave; un client enregistr&eacute; ? si oui cliquez
+associating_with_the_customer","Associating with the customer","Associando ao cliente","Asociarse con el cliente","Associer au client
+group","Group","Grupo","Grupo","Groupe
+type","Type","Tipo","Escribe","Taper
+category","Category","Categoria","Categor&iacute;a","Cat&eacute;gorie
+the_amount","The amount","Quantidade","La cantidad","Le montant
+process_sale","Process Sale","Processar Venda","Proceso de venta","Processus de vente
+registered_customer","registered customer","Cliente registado","cliente registrado","client enregistr&eacute;
+invalid_products","Invalid Products","Produtos Invalidados","Productos no v&aacute;lidos","Produits invalides
+other_currency","other currency","Outra Moeda","otra moneda","autre devise
+deadline","Deadline","Prazo","Plazo","Date limite
+batch","Batch","Lote","Lote","Lot
+previous","Previous","Anterior","Anterior","Pr&eacute;c&eacute;dent
+next","next","Pr&oacute;ximo","Siguiente","Suivant
+invalid_products_(no_conditions_of_use)","Invalid products (no conditions of use)","Produtos invalidados (sem condi&ccedil;&otilde;es de uso)","Productos no v&aacute;lidos (sin condiciones de uso)","Produits invalides (pas de conditions d&apos;utilisation)
+electricity","electricity","Eletrecidade","electricidad","&eacute;lectricit&eacute;
+water","Water","Agua","Agua","Eau
+other","Other","Outra","Otro","Autre
+value","Value","Valor","Valor","&Eacute;valuer
+observation","Observation","Observa&ccedil;&atilde;o","Observaci&oacute;n","Observation
+go_to_top","go to top","Ir ao topo","ve arriba","aller en haut
+the_summary_and_table_only_show","The summary and table only show","O resumo e a tabela apenas mostram","El resumen y la tabla solo muestran","Le r&eacute;sum&eacute; et le tableau ne montrent que
+deposits","deposits","Depositos","dep&oacute;sitos","d&eacute;p&ocirc;ts
+debts","debts","D&iacute;vidas","deudas","dettes
+and","and","e","y","et
+to_see","to see","para ver","para mirar","&agrave; voir
+click_on_customer","click on customer","clique no cliente","haga clic en el cliente","cliquer sur client
+navigate_to","navigate to","Navegar para","navegar a","aller vers
+users","users","Usu&aacute;rios","usuarios","utilisateurs
+products","Products","Produtos","Productos","Des produits
+groups/manufacture","Groups/Manufacture","Grupos/Fabrica","Grupos/Fabricaci&oacute;n","Groupes/Fabrication
+tables","tables","Mesas","mesas","les tables
+system_id","System ID","Id do Sistema","identificaci&oacute;n del sistema","ID syst&egrave;me
+password","Password","Senha","Clave","Mot de passe
+open","Open","Abrir","Abierto","Ouvert
+validate","Validate","Validar","Validar","Valider
+enable_fields","Enable Fields","Abilitar Campos","Habilitar campos","Activer les champs
+logo","Logo","LogoTipo","Logo","Logo
+show_in_the_report","Show in the Report","Motrar no Relat&oacute;rio","Mostrar en el Informe","Afficher dans le rapport
+designation","Designation","Designa&ccedil;&atilde;o","Designacion","La d&eacute;signation
+location","Location","Localiza&ccedil;&atilde;o","Ubicaci&oacute;n","Emplacement
+add_or_update","Add or Update","Adicionar ou Atualizar","Agregar o actualizar","Ajouter ou mettre &agrave; jour
+user","User","Usuario","Usuario","Utilisateur
+first_names","First Names","Primeiros Nomes","Nombre de pila","Pr&eacute;noms
+surname","Surname","Apelido","Apellido","Nom de famille
+category","Category","Categoria","Categor&iacute;a","Cat&eacute;gorie
+manager","manager","Gestor","gerente","gestionnaire
+food","food","Comida","alimento","aliments
+drink","Drink","Bebida","Beber","Boisson
+unit","Unit","Unidade","Unidad","Unit&eacute;
+change_groups_and_prices","Change groups and prices","Alterar grupos e pre&ccedil;os","Cambiar grupos y precios","Modifier les groupes et les prix
+the_database_will_be&aacute;_only_restored_if_done","The database will be&aacute; only restored if done","O banco de dados ser&aacute; restaurado apenas se estiver fazio","La base de datos ser&aacute; solo se restaura si se hace","La base de donn&eacute;es sera&aacute; seulement restaur&eacute; si fait
+generate","generate","gerar","generar","produire
+restore_database","restore database","restaurar banco de dados","restaurar base de datos","restaurer la base de donn&eacute;es
+help_or_report_bug","Help or report bug","Ajuda ou reportar erro","Ayuda o informe de error","Aide ou rapport de bogue
+about_us","about us","Sobre n&oacute;s","sobre nosotros","&agrave; propos de nous
+this_page_only_works_with_internet","This page only works with internet","Esta pagina funciona apenas com internet","Esta pagina solo funciona con internet","Cette page ne fonctionne qu&apos;avec internet
+processing...","Processing...","A processar...","Procesando...","Traitement...
+clean","Clean","Limpar","Limpio","Nettoyer
+interpret","interpret","Intrepertar","interpretar","interpr&eacute;ter
+state","state","Estado","estado","Etat
+editing","Editing","Edita&ccedil;&atilde;o","Edici&oacute;n","&Eacute;dition
+removed","removed","Removido","remoto","supprim&eacute;
+removal","Removal","Remo&ccedil;&atilde;o","Eliminaci&oacute;n","Suppression
+not_available","Not available","Nao disponivel","No disponible","Indisponible
+general(purchase/sales/expenses)","General(Purchase/Sales/Expenses)","Geral(Compra/Vendas/Despesas)","General (Compras/Ventas/Gastos)","G&eacute;n&eacute;ral (Achats/Ventes/D&eacute;penses)
+purchases/sales","Purchases/Sales","Compras/Vendas","Compras/Ventas","Achats/Ventes
+expenses","Expenses","Despesas","Gastos","D&eacute;penses
+stock_by_product","stock by product","Stock por produto","existencias por producto","stock par produit
+deposits/debts_(customers)","Deposits/Debts (Customers)","Depositos/D&iacute;vidas(Clientes)","Dep&oacute;sitos/Deudas (Clientes)","D&eacute;p&ocirc;ts/Dettes (Clients)
+see_&uacute;latest_orders","See &Uacute;Latest Orders","Ver &Uacute;ltimos Pedidos","Ver &Uacute;&Uacute;ltimos pedidos","Voir &Uacute;Derni&egrave;res commandes
+add_article","Add Article","Adicionar Artigo","A&ntilde;adir art&iacute;culo","Ajouter un article
+images","Images","Imagens","Im&aacute;genes","Images
+requests","Requests","Pedidos","Peticiones","Demandes
+past_sales","Past Sales","Vendas Anteriores","Ventas pasadas","Ventes pass&eacute;es
+deposits/debts","Deposits/Debts","Depositos/D&iacute;vidas","Dep&oacute;sitos/Deudas","D&eacute;p&ocirc;ts/Dettes
+allocations","Allocations","Aloca&ccedil;&otilde;es","Asignaciones","Allocations
+about_us","about us","Sobre n&oacute;s","sobre nosotros","&agrave; propos de nous
+past_sales","Past Sales","Vendas Anteriores","Ventas pasadas","Ventes pass&eacute;es
+help_or_report_bug","Help or report bug","Ajuda ou reportar erro","Ayuda o informe de error","Aide ou rapport de bogue
+customer_id","customer id","Id do Cliente","Identificaci&oacute;n del cliente","N &deg; de client
+content","Content","Conteudo","Contenido","Contenu
+about_us","about us","Sobre n&oacute;s","sobre nosotros","&agrave; propos de nous
+this_page_only_works_with_internet","This page only works with internet","Esta pagina funciona apenas com internet","Esta pagina solo funciona con internet","Cette page ne fonctionne qu&apos;avec internet
+manual","Manual","Manual","Manual","Manuel
+close","Close","Fechar","Cerca","proche
+product","Product","Produto","Producto","Produit
+here","here","aqui","aqu&iacute;","ici
+for","for","para","por","pour
+click","Click","Clique","Hacer clic","Cliquez sur
+insert","Insert","Inserir","Insertar","Ins&eacute;rer
+cashier","Cashier","Caixa","Cajero","La caissi&egrave;re
+enable_fields","Enable Fields","Abilitar Campos","Habilitar campos","Activer les champs
+unique_installation_number","Unique installation number","N&uacute;mero &uacute;nico da instala&ccedil;&atilde;o","N&uacute;mero de instalaci&oacute;n &uacute;nico","Num&eacute;ro d&apos;installation unique
+the_summary_and_table_only_show","The summary and table only show","O resumo e a tabela apenas mostram","El resumen y la tabla solo muestran","Le r&eacute;sum&eacute; et le tableau ne montrent que
+deposits","deposits","Depositos","dep&oacute;sitos","d&eacute;p&ocirc;ts
+debts","debts","D&iacute;vidas","deudas","dettes
+to_see","to see","para ver","para mirar","&agrave; voir
+click_on_customer","click on customer","clique no cliente","haga clic en el cliente","cliquer sur client
+date_expense","Date_Expense","Data_Despesa","Fecha_Gasto","Date_D&eacute;pense
+do_not_erase","do not erase","Nao apagados","no borre","ne pas effacer
+all","All","Todos","Todos","Tout
+records_per_table","records per table","Registos por tabela","registros por tabla","enregistrements par table
+view_payment_requests","View payment requests","Ver pedidos de pagamento","Ver solicitudes de pago","Voir les demandes de paiement
+manual","Manual","Manual","Manual","Manuel
+search","Search","Procurar","Buscar","Rechercher
+submit","Submit","Enviar","Enviar","Soumettre
+navigate_to","navigate to","Navegar para","navegar a","aller vers
+designation_and_location","Designation and Location","Designa&ccedil;&atilde;o e Localiza&ccedil;&atilde;o","Designaci&oacute;n y Ubicaci&oacute;n","D&eacute;signation et emplacement
+last_day_deposit","last day deposit","Ultimo deposito dia","Deposito ultimo dia","Acompte du dernier jour
+total_value","Total Value","Total Valor","Valor total","Valeur totale
+total_used","Total Used","Total Usado","total utilizado","Utilisation totale
+total_balance","Total Balance","Total Saldo","Balance total","Solde total
+request_payment","Request payment","Pedir Pagamento","Solicitar pago","Demander le paiement
+grouped","Grouped","Agrupado","Agrupados","Group&eacute;
+stock_by_code","Stock by code","Stock por c&oacute;digo","Stock por c&oacute;digo","Stock par code
+deposits/debts(amounts)","Deposits/Debts(Amounts)","Depositos/D&iacute;vidas(Valores)","Dep&oacute;sitos/Deudas (Cantidades)","D&eacute;p&ocirc;ts/dettes (montants)
+minimum_number:_2,_maximum:_50","Minimum number: 2, Maximum: 50","N&uacute;mero m&iacute;nimo: 2, M&iacute;ximo: 50","N&uacute;mero m&iacute;nimo: 2, M&aacute;ximo: 50","Nombre minimum : 2, maximum : 50
+tables_(total)","Tables (total)","Mesas (total)","Mesas (totales)","Tableaux (total)
+marked_rmv","Marked Rmv","Marcado Rmv","Rmv marcado","Marqu&eacute; Rmv
+add_or_update","Add or Update","Adicionar ou Atualizar","Agregar o actualizar","Ajouter ou mettre &agrave; jour
+country","Country","Pa&iacute;s","Pa&iacute;s","Pays
+sale","Sale","Venda","Rebaja","Vente
+last_day_deposit","last day deposit","Ultimo deposito dia","Deposito ultimo dia","Acompte du dernier jour
+total_value","Total Value","Total Valor","Valor total","Valeur totale
+total_used","Total Used","Total Usado","total utilizado","Utilisation totale
+total_balance","Total Balance","Total Saldo","Balance total","Solde total
+request_payment","Request payment","Pedir Pagamento","Solicitar pago","Demander le paiement
+grouped","Grouped","Agrupado","Agrupados","Group&eacute;
+stock_by_code","Stock by code","Stock por c&oacute;digo","Stock por c&oacute;digo","Stock par code
+deposits/debts(amounts)","Deposits/Debts(Amounts)","Depositos/D&iacute;vidas(Valores)","Dep&oacute;sitos/Deudas (Cantidades)","D&eacute;p&ocirc;ts/dettes (montants)
+minimum_number:_2,_maximum:_50","Minimum number: 2, Maximum: 50","N&uacute;mero m&iacute;nimo: 2, M&iacute;ximo: 50","N&uacute;mero m&iacute;nimo: 2, M&aacute;ximo: 50","Nombre minimum : 2, maximum : 50
+tables_(total)","Tables (total)","Mesas (total)","Mesas (totales)","Tableaux (total)
+marked_rmv","Marked Rmv","Marcado Rmv","Rmv marcado","Marqu&eacute; Rmv
+add_or_update","Add or Update","Adicionar ou Atualizar","Agregar o actualizar","Ajouter ou mettre &agrave; jour
+country","Country","Pa&iacute;s","Pa&iacute;s","Pays
+sale","Sale","Venda","Rebaja","Vente
+edit","Edit","Editar","Editar","&Eacute;diter
+registration_date","Registration Date","Data Registo","Fecha de Registro","Date d&apos;inscription
+profit_st","Profit St.","Lucro est.","Beneficio est.","B&eacute;n&eacute;fice est.
+profit","Profit","Lucro","Beneficio","B&eacute;n&eacute;fice
+remove","Remove","Remover","Eliminar","Retirer
+records","records","Registos","Registros","Enregistrements
+deposited","Deposited","Depositado","Depositado","D&eacute;pos&eacute;
+total","Total","Total","Total","Total
+open","Open","Abrir","Abierto","Ouvert
+paid","Paid out","Pago","Pagado","Pay&eacute;
+management","Management","Gestao","administraci&oacute;n","La gestion
+restoration","Restoration","Restoracao","Restauracion","Restauration
+added_sale","Added sale","Venda adicionada","Venta a&ntilde;adida","Vente ajout&eacute;e
+all_fields_must_be_filled","All fields must be filled","Todos os campos devem estar prenchidos","Todos los campos son obligatorios","Tous les champs doivent &ecirc;tre remplis
+normal_sale","normal sale","Venda normal","venta normal","vente normale
+allocations","Allocations","Aloca&ccedil;&otilde;es","Asignaciones","Allocations
+sale_removed","Sale removed","Venda removida","Venta eliminada","Vente supprim&eacute;e
+added_sale","Added sale","Venda adicionada","Venta a&ntilde;adida","Vente ajout&eacute;e
+confirm_with_ok_to_continue_or_cancel_to_cancel","Confirm with OK to continue or CANCEL to cancel","Confirma com OK para continuar ou CANCEL para cancelar","Confirme con OK para continuar o CANCELAR para cancelar","Confirmez avec OK pour continuer ou ANNULER pour annuler
+do_you_want_to_associate_with_a_customer","Do you want to associate with a customer? Confirm with OK to continue or CANCEL to cancel","Deseja associar a um cliente? Confirma com OK para continuar ou CANCEL para cancelar","&iquest;Quieres asociarte con un cliente? Confirme con OK para continuar o CANCELAR para cancelar","Vous souhaitez vous associer &agrave; un client ? Confirmez avec OK pour continuer ou ANNULER pour annuler
+processed","Processed","Processado","Procesada","Trait&eacute;
+destiny","Destiny","Destino","Destino","Destin
+processed_user","Processed User","Processado Usuario","Usuario procesado","Utilisateur trait&eacute;
+user Allocation","User Allocation","Aloc Usuario","Asignaci&oacute;n de usuarios","Allocation d&apos;utilisateur
+id","ID","Id","IDENTIFICACI&Oacute;N","IDENTIFIANT
+image","Image","Imagem","Imagen","Image
+price_with_desc","Price With Desc.","Pre&ccedil;o Com Desc.","Precio Con Desc.","Prix Avec Desc.
+full_name","Full name","Nome Completo","Nombre completo","Nom et pr&eacute;nom
+discount","Discount","Desconto","Descuento","Remise
+discount_price","Discount price","Preco com desconto","Precio de descuento","Prix bas
+allocate_user","Allocate User","Alocar Usuario","Asignar usuario","Attribuer un utilisateur
+by_allocation","by Allocation","por Aloca&ccedil;&atilde;o","por asignaci&oacute;n","par r&eacute;partition
+place","Place","Local","Lugar","Place
+error_processing","Error processing","Erro ao processar","Procesamiento de errores","Traitement des erreurs
+an_error_has_occurred:_exit_and_re-enter_to_process_the_request","An error has occurred: exit and re-enter to process the request","Ocorreu um erro: sai e volta a entrar novamente para processar o pedido","Ha ocurrido un error: sal y vuelve a entrar para procesar la solicitud","Une erreur s&apos;est produite : quittez et entrez &agrave; nouveau pour traiter la demande
+you_dont_have_enough_privileges_to_manage_and_download_backup","You don&apos;t have enough privileges to manage and download backup","Nao tem privilegios suficientes para gerir e baixar backup","No tienes suficientes privilegios para administrar y descargar la copia de seguridad","Vous n&apos;avez pas assez de privil&egrave;ges pour g&eacute;rer et t&eacute;l&eacute;charger la sauvegarde
+an_error_has_occurred:_exit_and_re-enter_to_process_the_request","An error has occurred: exit and re-enter to process the request","Ocorreu um erro: sai e volta a entrar novamente para processar o pedido","Ha ocurrido un error: sal y vuelve a entrar para procesar la solicitud","Une erreur s&apos;est produite : quittez et entrez &agrave; nouveau pour traiter la demande
+you_dont_have_enough_privileges_to_allocate_article","You don&apos;t have enough privileges to allocate article","Nao tem privilegios suficientes para alocar artigo","No tienes suficientes privilegios para asignar el art&iacute;culo.","Vous n&apos;avez pas assez de privil&egrave;ges pour allouer l&apos;article
+an_error_has_occurred:_the_client_has_not_been_registered","An error has occurred: the client has not been registered","Ocorreu um erro: o cliente n&atilde;o foi registado","Ha ocurrido un error: el cliente no ha sido registrado","Une erreur s&apos;est produite : le client n&apos;a pas &eacute;t&eacute; enregistr&eacute;
+an_error_has_occurred:_check_that_&eacute;_the_same_sale_or_if_you_have_at_least_one_article","An error has occurred: check that &eacute; the same sale or if you have at least one article","Ocorreu um erro: verifique se n&atilde;o &eacute; a mesma venda ou se tem pelomenos um artigo","Se ha producido un error: comprueba que &eacute; la misma venta o si tiene al menos un art&iacute;culo","Une erreur s&apos;est produite : v&eacute;rifiez que &eacute; la m&ecirc;me vente ou si vous avez au moins un article
+an_error_occurred:_the_system_did_not_recognize_the_sales_list","An error occurred: the system did not recognize the sales list","Ocorreu um erro: o sistema n&atilde;o reconheceu a lista de vendas","Ocurri&oacute; un error: el sistema no reconoci&oacute; la lista de ventas","Une erreur s&apos;est produite : le syst&egrave;me n&apos;a pas reconnu la liste des ventes
+wrong_credentials","wrong credentials","Credencias erradas","Credenciales incorrectas","fausses informations d&apos;identification
+does_not_have_privileges_to_place_allocated_stock_as_processed","Does not have privileges to place allocated stock as processed","N&atilde;o tem previlegios para colocar stock alocado como processado","No tiene privilegios para colocar el stock asignado como procesado","N&apos;a pas de privil&egrave;ges pour placer le stock allou&eacute; comme trait&eacute;
+you_dont_have_privileges_to_enter_data","You don&apos;t have privileges to enter data","N&atilde;o tem previlegios para inserir dados","No tienes privilegios para ingresar datos","Vous n&apos;avez pas les privil&egrave;ges pour entrer des donn&eacute;es
+it_does_not_have_privileges_to_insert_or_update_users","It does not have privileges to insert or update users","N&atilde;o tem previlegios para inserir ou atualizar usuarios","No tiene privilegios para insertar o actualizar usuarios","Il n&apos;a pas de privil&egrave;ges pour ins&eacute;rer ou mettre &agrave; jour des utilisateurs
+server_busy._try_later","Server Busy. Try later","Servidor ocupado. Tente mais tarde","Servidor ocupado. Intenta m&aacute;s tarde","Serveur occup&eacute;. Essayer plus tard
+you_dont_have_privileges_to_enter_data","You don&apos;t have privileges to enter data","N&atilde;o tem previlegios para inserir dados","No tienes privilegios para ingresar datos","Vous n&apos;avez pas les privil&egrave;ges pour entrer des donn&eacute;es
+it_does_not_have_privileges_to_insert_or_update_users","It does not have privileges to insert or update USERS","N&atilde;o tem previlegios para inserir ou atualizar USUARIOS","No tiene privilegios para insertar o actualizar USUARIOS","Il n&apos;a pas les privil&egrave;ges d&apos;ins&eacute;rer ou de mettre &agrave; jour des UTILISATEURS
+you_do_not_have_privileges_to_insert_or_update_purchases","You do not have privileges to insert or update PURCHASES","N&atilde;o tem previlegios para inserir ou atualizar COMPRAS","No tienes privilegios para insertar o actualizar COMPRAS","Vous n&apos;avez pas les privil&egrave;ges pour ins&eacute;rer ou mettre &agrave; jour des ACHATS
+you_dont_have_privileges_to_insert_or_update_sales","You don&apos;t have privileges to insert or update SALES","N&atilde;o tem previlegios para inserir ou atualizar VENDAS","No tienes privilegios para insertar o actualizar VENTAS","Vous n&apos;avez pas les privil&egrave;ges pour ins&eacute;rer ou mettre &agrave; jour les VENTES
+you_do_not_have_privileges_to_enter_or_update_sale/price","You do not have privileges to enter or update SALE/PRICE","N&atilde;o tem previlegios para inserir ou atualizar VENDA/PRE&Ccedil;O","No tiene privilegios para ingresar o actualizar SALE/PRICE","Vous n&apos;avez pas les privil&egrave;ges pour entrer ou mettre &agrave; jour VENTE/PRIX
+you_do_not_have_privileges_to_insert_or_update_expenses","You do not have privileges to insert or update EXPENSES","N&atilde;o tem previlegios para inserir ou atualizar DESPESAS","No tiene privilegios para insertar o actualizar GASTOS","Vous n&apos;avez pas les privil&egrave;ges pour ins&eacute;rer ou mettre &agrave; jour les D&Eacute;PENSES
+you_do_not_have_privileges_to_insert_or_update_invalid_articles","You do not have privileges to insert or update INVALID ARTICLES","N&atilde;o tem previlegios para inserir ou atualizar ARTIGOS INVALIDOS","No tiene privilegios para insertar o actualizar ART&Iacute;CULOS NO V&Aacute;LIDOS","Vous n&apos;avez pas les privil&egrave;ges pour ins&eacute;rer ou mettre &agrave; jour des ARTICLES INVALIDES
+an_error_has_occurred_please_refresh_your_browser","An error has occurred, please refresh your browser","Ocorreu um erro, porfavor refresque o navegador","Ha ocurrido un error, actualice su navegador","Une erreur s&apos;est produite, veuillez actualiser votre navigateur
+server_busy._try_later","Server Busy. Try later","Servidor ocupado. Tente mais tarde","Servidor ocupado. Intenta m&aacute;s tarde","Serveur occup&eacute;. Essayer plus tard
+server_busy._try_later","Server Busy. Try later","Servidor ocupado. Tente mais tarde","Servidor ocupado. Intenta m&aacute;s tarde","Serveur occup&eacute;. Essayer plus tard
+no_data","No data","Sem dados","Sin datos","Pas de donn&eacute;es
+to_delete_a_data,_you_need_to_have_manager_category","To delete a data, you need to have MANAGER category","Para apagar um dado, precisa ter categoria de GESTOR","Para borrar un dato, debe tener categor&iacute;a MANAGER","Pour supprimer une donn&eacute;e, elle doit avoir la cat&eacute;gorie MANAGER
+wrong_credentials","wrong credentials","Credencias erradas","Credenciales incorrectas","fausses informations d&apos;identification
+does_not_have_privileges_to_visualize_data","Does not have privileges to visualize data","N&atilde;o tem previlegios para visualizar dados","No tiene privilegios para visualizar datos","N&apos;a pas les privil&egrave;ges pour visualiser les donn&eacute;es
+the_file_was_created","The file was created","O ficheiro foi criado","El archivo fue creado","Le fichier a &eacute;t&eacute; cr&eacute;&eacute;
+to_download_the_file","to download the file","para baixar o ficheiro","para descargar el archivo","pour t&eacute;l&eacute;charger le fichier
+the_same_file_can_be_found_on_the_server_in_the_folder","The same file can be found on the server in the folder","O mesmo ficheiro pode ser encontrado no servidor na pasta","El mismo archivo se puede encontrar en el servidor en la carpeta","Le m&ecirc;me fichier se trouve sur le serveur dans le dossier
+click_m","Click","Clique","Hacer clic","Cliquez sur
+expected_items","Expected Items","Itens Esperados","Art&iacute;culos esperados","Articles attendus
+processed","processed","processados","procesada","trait&eacute;
+the_database_has_tables","The database has tables","O banco de dados tem tabelas","La base de datos tiene tablas.","La base de donn&eacute;es contient des tables
+an_error_has_occurred_please_try_again","An error has occurred, please try again","Ocorreu um erro, tente novamente","Se produjo un error, int&eacute;ntalo de nuevo","Une erreur s&apos;est produite, veuillez r&eacute;essayer
+new_version_available","New version available","Nova vers&atilde;o dispon&iacute;vel","Nueva versi&oacute;n disponible","Nouvelle version disponible
+subscription","Subscription","Subscri&ccedil;&atilde;o","Suscripci&oacute;n","Abonnement
+active_users","active users","usu&aacute;rios activos","usuarios activos","utilisateurs actifs
+valid_untill_day","valid untill; day","v&aacute;lido at&eacute; dia","v&aacute;lido hasta; d&iacute;a","valable jusqu&apos;&agrave;; journ&eacute;e
+application_id","Application ID","Id da aplica&ccedil;&atilde;o","ID de aplicaci&oacute;n","ID d&apos;application
+to_insert_key","to insert key","para inserir chave","insertar llave","pour ins&eacute;rer la cl&eacute;
+click_on_the","Click on the","Clique no","haga clic en el","clique sur le
+you_don&apos;t_have_a_valid_key_to_use_the_system_buy_it_you_can_opt_for_a_key_or_join_a_subscription","You don&apos;t have a valid key to use the system: buy it, you can opt for a key or join a subscription","N&atilde;o tem uma chave v&aacute;lida para usar o sistema: adquira, pode optar por uma chave ou aderir a uma subscri&ccedil;&atilde;o","No tiene una clave v&aacute;lida para usar el sistema: c&oacute;mprela, puede optar por una clave o unirse a una suscripci&oacute;n","Vous n&apos;avez pas de cl&eacute; valide pour utiliser le syst&egrave;me : achetez-la, vous pouvez opter pour une cl&eacute; ou souscrire &agrave; un abonnement
+the_trial_period_ends_in","The trial period ends in","O per&iacute;odo de teste termina em","El per&iacute;odo de prueba termina en","La p&eacute;riode d&apos;essai se termine dans
+days_to_continue_using_the_system_buy_a_key_you_can_choose_a_key_or_join_a_subscription","days, to continue using the system: buy a key, you can choose a key or join a subscription","dias, para continuar a usar o sistema: adquira uma chave, pode optar por uma chave ou aderir a uma subscri&ccedil;&atilde;o","d&iacute;as, para continuar usando el sistema: compre una clave, puede elegir una clave o unirse a una suscripci&oacute;n","jours, pour continuer &agrave; utiliser le syst&egrave;me : achetez une cl&eacute;, vous pouvez choisir une cl&eacute; ou souscrire &agrave; un abonnement
+the_subscription_period_has_ended_you_can_proceed_with_the_payment_to_continue_using_the_system","The subscription period has ended, you can proceed with the payment to continue using the system","O per&iacute;odo de subscri&ccedil;&atilde;o terminou, pode proceder com o pagamento para continuar a usar o sistema","El per&iacute;odo de suscripci&oacute;n ha finalizado, puede proceder con el pago para continuar usando el sistema","La p&eacute;riode d&apos;abonnement est termin&eacute;e, vous pouvez proc&eacute;der au paiement pour continuer &agrave; utiliser le syst&egrave;me
+the_subscription_period_ends_in","The subscription period ends in","O per&iacute;odo de subscri&ccedil;&atilde;o termina daqui a","El per&iacute;odo de suscripci&oacute;n finaliza en","La p&eacute;riode d&apos;abonnement se termine dans
+days_you_can_proceed_with_the_payment","days, you can proceed with the payment","dias, pode proceder com o pagamento","d&iacute;as, puede proceder con el pago","jours, vous pouvez proc&eacute;der au paiement
+the_usage_period_is_over_to_continue_using_the_system_buy_a_key_you_can_opt_for_a_key_or_join_a_subscription","The usage period is over, to continue using the system: buy a key, you can opt for a key or join a subscription","O per&iacute;odo de uso terminou, para continuar a usar o sistema: adquira uma chave, pode optar por uma chave ou aderir a uma subscri&ccedil;&atilde;o","El per&iacute;odo de uso ha terminado, para continuar usando el sistema: compre una clave, puede optar por una clave o unirse a una suscripci&oacute;n","La p&eacute;riode d&apos;utilisation est termin&eacute;e, pour continuer &agrave; utiliser le syst&egrave;me : achetez une cl&eacute;, vous pouvez opter pour une cl&eacute; ou souscrire &agrave; un abonnement
+the_key_must_only_be_used_for_one_server_and_several_computers","The key must only be used for one server and several computers, if you want to put it on more servers, please purchase a key. You can choose a key or join a subscription","A chave deve ser usada apenas para um servidor e varios computadores, se quizer colocar em mais servidores porfavor adquira uma chave. Pode optar por uma chave ou aderir a uma subscri&ccedil;&atilde;o","La clave solo debe usarse para un servidor y varias computadoras, si desea colocarla en m&aacute;s servidores, compre una clave. Puedes elegir una clave o unirte a una suscripci&oacute;n","La cl&eacute; ne doit &ecirc;tre utilis&eacute;e que pour un serveur et plusieurs ordinateurs, si vous souhaitez la mettre sur plusieurs serveurs, veuillez acheter une cl&eacute;. Vous pouvez choisir une cl&eacute; ou rejoindre un abonnement
+update_the_system_by_downloading_a_new_version_from_the","Update the system by downloading a new version from the","Atualize o sistema baixando nova vers&atilde;o apartir da","Actualice el sistema descargando una nueva versi&oacute;n de la","Mettez &agrave; jour le syst&egrave;me en t&eacute;l&eacute;chargeant une nouvelle version &agrave; partir du
+will_be_limited","will be limited","estara limitado","ser&aacute; limitado","sera limit&eacute;
+update_the_system_by_downloading_a_new_version_from_www.amoraservices.org_the_system_is_limited","Update the system by downloading a new version from www.amoraservices.org, the system is limited","Atualize o sistema baixando nova vers&atilde;o apartir da www.amoraservices.org, o sistema esta limitado","Actualiza el sistema descargando una nueva versi&oacute;n desde www.amoraservices.org, el sistema es limitado","Mettez &agrave; jour le syst&egrave;me en t&eacute;l&eacute;chargeant une nouvelle version sur www.amoraservices.org, le syst&egrave;me est limit&eacute;
+there_is_an_inconsistency_in_the_system_validation_parameters","There is an inconsistency in the system validation parameters","Existe uma inconsistencia nos parametros de valida&ccedil;&atilde;o do sistema","Hay una inconsistencia en los par&aacute;metros de validaci&oacute;n del sistema","Il y a une incoh&eacute;rence dans les param&egrave;tres de validation du syst&egrave;me
+there_was_a_problem_with_the_dates_on_your_computer","There was a problem with the dates on your computer (server), please contact technical support","Houve um problema com as datas no seu computador(servidor), porfavor contacte o suporte tecnico","Hubo un problema con las fechas en su computadora (servidor), comun&iacute;quese con soporte t&eacute;cnico","Il y a eu un probl&egrave;me avec les dates sur votre ordinateur (serveur), veuillez contacter le support technique
+an_error_occurred_please_wait_and_try_again_later","An error occurred, please wait and try again later","Ocorreu um erro, aguarde e tente novamente mais tarde","Ocurri&oacute; un error, espere y vuelva a intentarlo m&aacute;s tarde","Une erreur s&apos;est produite, veuillez patienter et r&eacute;essayer plus tard
+invalid_key","Invalid Key","Chave Invalida","Tecla inv&aacute;lida","Cl&eacute; non valide
+this_version_is_not_updated._download_new_version_before_proceeding","This version is not updated. Download new version before proceeding","Esta versao nao esta atualizada. Baixe nova versao antes de prosseguir","Esta versi&oacute;n no est&aacute; actualizada. Descargue la nueva versi&oacute;n antes de continuar","Cette version n&apos;est pas mise &agrave; jour. T&eacute;l&eacute;chargez la nouvelle version avant de continuer
+has_an_active_key_this_has_not_been_used_yet","Has an active key, this has not been used yet","Tem chave activa, esta ainda nao foi usada","Tiene una clave activa, a&uacute;n no se ha utilizado","Poss&egrave;de une cl&eacute; active, celle-ci n&apos;a pas encore &eacute;t&eacute; utilis&eacute;e
+successfully_changed_to","Successfully changed to","Alterado com sucesso para","Cambiado con &eacute;xito a","Remplac&eacute; avec succ&egrave;s par
+in","in","em","en","dans
+saleprice.price","Sale/Price.Price","Venda/Preco.Pre&ccedil;o","Venta/Precio.Precio","Vente/Prix.Prix
+purchases.quantity","Purchases.Quantity","Compras.Quantidade","Compras.Cantidad","Achats.Quantit&eacute;
+purchases.price","Purchases.Price","Compras.Pre&ccedil;o","Compras.Precio","Achats.Prix
+sales.quantity","Sales.Quantity","Vendas.Quantidade","Cantidad de ventas","Ventes.Quantit&eacute;
+purchases.price","Purchases.Price","Compras.Pre&ccedil;o","Compras.Precio","Achats.Prix
+purchases.quantity","Purchases.Quantity","Compras.Quantidade","Compras.Cantidad","Achats.Quantit&eacute;
+last_records","last records","&Uacute;ltimos registos","&uacute;ltimos registros","derniers enregistrements
+sales.price","Sales.Price","Vendas.Pre&ccedil;o","Ventas.Precio","Ventes.le prix
+sales.price","Sales.Price","Vendas.Pre&ccedil;o","Ventas.Precio","Ventes.le prix
+doesnotserveasaninvoice","Does not serve as an invoice","Nao serve como factura","No sirve como factura","Ne fait pas office de facture
+doesnotserveasareceipt","does not serve as a receipt","Nao serve como recibo","no sirve como recibo","ne sert pas de re&ccedil;u
+paymentconfirmation","Payment confirmation","Confirmacao de Pagamento","La confirmaci&oacute;n del pago","Confirmation de paiement
+requestforpayment","Request for payment","Pedido de Pagamento","Solicitud de pago","Demande de paiement
+amountpayable","Amount Payable","Valor a Pagar","Valor a pagar","Montant payable
+amountpaid","Amount paid","Valor Pago","Valor pago","Le montant pay&eacute;
+doubts","Doubts","Duvidas","Dudas","Doutes
+the_product_already_exists","The product already exists","O produto ja existe","El producto ya existe","Le produit existe déjà
+the_group_already_exists","The group already exists","O grupo ja existe","el grupo ya existe","Le groupe existe déjà
+date_of_expense","Date of Expense","Data da Despesa","Fecha del gasto","Date de dépense
+report_of","Report of","Relatorio de","Informe de","Rapport de
+debt","Debt","Debito","Deuda","Dette
+invalid","Invalid","Invalida","Inv&aacute;lida","Non valide
+entry","Entry","Entrada","Entrada","Entrée
+last_date","Last Date","Ultima Data","Ultima Cita","Dernier Rendez-vous
+duplicated","DUPLICATED","DUPLICADO","DUPLICADO","DUPLICATED
+last_sales_made_in_descending_order","Last sales made in descending order","&Uacute;ltimas vendas feitas por ordem decrescente","&Uacute;ltimas ventas realizadas en orden descendente","Derni&egrave;res ventes réalis&eacute;es par ordre d&eacute;croissant
+click_in","click in","Clique em","clickea en","clique dessus
+to _generate _second_copy_of_proof","to generate a second copy of the proof","para gerar segunda via do comprovativo","para generar una segunda copia de la prueba","pour g&eacute;n&eacute;rer une deuxi&egrave;me copie de la preuve
+see_latest_sales","see latest sales","Ver ultimas vendas","ver &uacute;ltimas ventas","voir les derni&egrave;res ventes
+if_the_article_has_been_written_more_than_once","If the article has been written more than once in the sales/prices table, this stock table may also appear several times, however generally the stock value is unique. The term values are estimated.","Se o artigo tiver sido escrito mais de uma vez na tabela venda/pre&ccedil;os, nesta tabela de stock tamb&eacute;m podera aparecer varias vez, contudo geralmente o valor de stock &eacute; unico. Os valores de prazo s&atilde;o estimados.","Si el art&iacute;culo se ha escrito m&aacute;s de una vez en la tabla de ventas/precios, esta tabla de existencias tambi&eacute;n puede aparecer varias veces, aunque generalmente el valor de las existencias es &uacute;nico. Los valores del t&eacute;rmino son estimados.","Si larticle a &eacute;t&eacute; &eacute;crit plus d une fois dans la table des ventes/prix, cette table de stock peut &eacute;galement apparaître plusieurs fois, cependant g&eacute;n&eacute;ralement la valeur du stock est unique. Les valeurs des termes sont estim&eacute;es.
+logout","Logout","Sair","Cerrar sesi&oacute;n","Se d&eacute;connecter
+lockscreen","Lock Screen","Bloquear tela","Bloquear pantalla","&Eacute;cran verrouill&eacute;
+lockscreen_message","Screen Locked","Tela bloqueada","Pantalla bloqueada","&Eacute;cran verrouill&eacute;
+unloakmsg","Unlock Screen","Desbloquear Tela","Desbloquear Pantalla","D&eacute;verrouiller l &eacute;cran
+newpageloginagain","This user has another page open, log in again from the login page by entering the credentials (this will also end the other session)","Este usuário tem outra página aberta, entre novamente a partir da pagina de entrada digitando as credências (assim terminara também a outra sessão)","Este usuario tiene otra página abierta, inicie sesión nuevamente desde la página de inicio de sesión ingresando las credenciales (esto también finalizará la otra sesión)","Cet utilisateur a une autre page ouverte, reconnectez-vous à partir de la page de connexion en entrant les informations d'identification (cela mettra également fin à l'autre session)
+
+
+
+
+
+
+
+
+
+
